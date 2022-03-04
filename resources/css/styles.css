@@ -1,0 +1,78 @@
+
+
+* {
+ /*   color: orange; */
+}
+
+.section {
+  background-color: lightgray;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.color {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+}
+
+.color-red {
+    background-color: red;
+}
+
+.color-blue {
+    background-color: blue;
+}
+
+.color-green {
+    background-color: green;
+}
+
+.color-orange {
+    background-color: orange;
+}
+
+.font {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 40px;
+    margin: 20px;
+}
+
+.font-cormorant h2,
+.font-cormorant p {
+    font-family: 'Cormorant', serif;
+}
+
+.font-robotomono h2,
+.font-robotomono p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.style-h1, h1 {
+    font-family: 'Cormorant', serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: Red
+}
+
+.style-h2, h2 {
+    font-family: 'Cormorant', serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.style-p, p {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+li {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* headers */
